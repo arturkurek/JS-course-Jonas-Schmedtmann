@@ -1,0 +1,10 @@
+{
+  "todohighlight.isCaseSensitive": true,
+  "todohighlight.keywords": [
+    {
+      "text": "note",
+      "color": "#333",
+      "backgroundColor": "#3498db"
+    }
+  ]
+}
